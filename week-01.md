@@ -8,7 +8,7 @@
 - I opened it using code .
 - I pushed these updates, and will do so everyday using / git add . / then / git commit -m "my message" / and finally / git push /
 - I save my vss code using ctrl + s
-- leant about git pull
+- learnt about git pull
 
 ## Tuesday
 
