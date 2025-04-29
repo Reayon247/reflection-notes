@@ -12,7 +12,9 @@
 
 ## Tuesday
 
--
+-continued on css workshop selectors
+-reading more about css online
+-chatted with students about experience
 
 ## Wednesday
 
