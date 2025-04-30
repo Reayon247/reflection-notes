@@ -18,7 +18,9 @@
 
 ## Wednesday
 
--
+-tested flex box in vss
+-attemped some moving around
+-messed around with js in the console
 
 ## Thursday
 
