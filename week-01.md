@@ -24,7 +24,9 @@
 
 ## Thursday
 
--
+- talk with classmates about future assignments
+- asked questions with them
+- talked about careers
 
 ## Friday
 
