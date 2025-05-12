@@ -1,4 +1,4 @@
-# Week 1
+# Week 2
 
 # Monday
 
@@ -19,5 +19,10 @@
 - read about the holy grail layout with grid
 
 # Thursday
+
+- Finished off the js audio and video elements workshop
+- had a look at the grid and using it with accessability
+- read ahead a little about what assigment we are doing tomorrow
+- did some initial thinking of what to make the website about, ITS GONNA BE CATS
 
 # Friday
