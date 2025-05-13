@@ -8,7 +8,9 @@
 
 # Tuesday
 
--
+- continued watching the events loop video
+- filled out the forms
+- https://www.youtube.com/watch?v=xwKbtUP87Dk - watched this js basics video to get a more firm understanding
 
 # Wednesday
 
