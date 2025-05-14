@@ -14,7 +14,8 @@
 
 # Wednesday
 
--
+- read through joes very help feedback on my assignment for week 2
+- used it to further my knowledge in the areas i struggled with
 
 # Thursday
 
