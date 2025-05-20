@@ -8,7 +8,8 @@
 
 # Tuesday
 
--
+- deleted a node modules because i forgot .gitignore
+- conintued the workshop working with supabase
 
 # Wednesday
 
