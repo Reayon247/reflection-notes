@@ -13,7 +13,9 @@
 
 # Wednesday
 
--
+- fixed an issue I had with git not pushing correctly
+- continued on user inpurt and post workshop
+- started query strings on api workshop
 
 # Thursday
 
