@@ -7,7 +7,8 @@
 
 # Tuesday
 
--
+- read more about react
+- played with buttons and state
 
 # Wednesday
 
