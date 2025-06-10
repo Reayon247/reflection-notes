@@ -12,7 +12,8 @@
 
 # Wednesday
 
--
+- revised about lists and keys
+- also revised more about state and a little bit about useEffect ready for demo tomorrow
 
 # Thursday
 
