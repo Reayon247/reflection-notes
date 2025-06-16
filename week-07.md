@@ -10,7 +10,8 @@
 
 # Wednesday
 
--
+- filled out a few forms
+- had a look at a video about someone making and designing a full stack app
 
 # Thursday
 
