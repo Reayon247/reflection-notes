@@ -12,7 +12,9 @@
 
 # Wednesday
 
--
+- Applied for a software engineer role with Teal
+- pushed all relevant work to git hub
+- Brainstormed some initial ideas for the assignment tomorrow
 
 # Thursday
 
