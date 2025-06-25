@@ -13,7 +13,8 @@
 
 # Wednesday
 
--
+- read about supabase buckets
+- looking at adding updates and making new posts in my last assignment
 
 # Thursday
 
